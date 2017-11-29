@@ -1,2 +1,2 @@
 # test1
-Test app
+Test app. Sample project to understand git.
